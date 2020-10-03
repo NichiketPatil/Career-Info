@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme2" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/whatsappDark2</item>
+        <item name="colorPrimaryDark">@color/whatsappDark2</item>
+        <item name="colorAccent">@color/whatsappDarkSelected</item>
+        <item name="font">@font/monsterrat</item>
+        <item name="android:fontFamily">@font/monsterrat</item>
+        <item name="fontFamily">@font/monsterrat</item>
+        <item name="android:font">@font/monsterrat</item>
+        <item name="homeAsUpIndicator">@drawable/ic_arrow_back_black_24dp</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+</resources>

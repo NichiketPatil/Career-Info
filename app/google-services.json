@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "876453908946",
+    "firebase_url": "https://coaching-reviews.firebaseio.com",
+    "project_id": "coaching-reviews",
+    "storage_bucket": "coaching-reviews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876453908946:android:a66c340f71d7f54b86f80b",
+        "android_client_info": {
+          "package_name": "com.anspace.reviews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876453908946-jbfmfd7hstn9qutomj7ad58ob1m46fr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anspace.reviews",
+            "certificate_hash": "a8bc70e21c8d96bbb860046bce35202e2c9e8dda"
+          }
+        },
+        {
+          "client_id": "876453908946-r4aig1pv0acdb684ulq5u665791anj8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT469uRfBRjkyNb1BctrYkpS3fZgsdYTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876453908946-r4aig1pv0acdb684ulq5u665791anj8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
